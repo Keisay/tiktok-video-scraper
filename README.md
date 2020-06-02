@@ -1,2 +1,3 @@
 # tiktok-video-scraper
-On this repository, you will find a scraper that can download videos on Tiktok
+
+You need to install geckodriver if you want the script to work
